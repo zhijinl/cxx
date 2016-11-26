@@ -30,8 +30,7 @@ Current stuff that I've got:
    some caveats / pitfalls (such as the use of C++11 `auto` together
    with expression templates). The `Eigen` library is a good place to
    go if you want to learn more about them. I recommand that you take
-   a look the amazing documentations of `Eigen` (ref)
-   [https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html?_sm_au_=i5HRq6Vr7tWjtH5D],
+   a look the amazing documentations of `Eigen` [link](https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html?_sm_au_=i5HRq6Vr7tWjtH5D),
    if you are interested in doing more cool stuff with expression
    templates!
 
