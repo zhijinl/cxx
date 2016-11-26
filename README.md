@@ -25,13 +25,13 @@ Current stuff that I've got:
    be done by hand for simple point-wise computation cases, and
    what the performance boost is compared to naive computations.
 
-Expression templates are rather complicated, especially when you
-have more advanced computations involved. And they also present
-some caveats / pitfalls (such as the use of C++11 `auto` together
-with expression templates). The `Eigen` library is a good place to
-go if you want to learn more about them. I recommand that you take
-a look the amazing documentations of `Eigen` (ref)
-[https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html?_sm_au_=i5HRq6Vr7tWjtH5D],
-if you are interested in doing more cool stuff with expression
-templates!
+   Expression templates are rather complicated, especially when you
+   have more advanced computations involved. And they also present
+   some caveats / pitfalls (such as the use of C++11 `auto` together
+   with expression templates). The `Eigen` library is a good place to
+   go if you want to learn more about them. I recommand that you take
+   a look the amazing documentations of `Eigen` (ref)
+   [https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html?_sm_au_=i5HRq6Vr7tWjtH5D],
+   if you are interested in doing more cool stuff with expression
+   templates!
 
