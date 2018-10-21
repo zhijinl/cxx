@@ -1,4 +1,7 @@
+2018-10-21  Zhijin Li  <jonathan.zj.lee@gmail.com>
+
+	* README.md: Modify docs.
+
 2016-11-27  Zhijin Li  <jonathan.zj.lee@gmail.com>
 
 	* expr_template/expr.hh: Add expression templates demo codes.
-

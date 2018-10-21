@@ -1,8 +1,8 @@
-Author: Zhijin Li  
-Date:   Nov 27, 2016
 
-##
-Some C++ tricks that I think worth sharing
+## Some notes on C++
+
+Zhijin Li
+
 
 The list may be getting bigger in the future: I'll probably
 write down whatever I think is interesting here :-)
@@ -16,7 +16,7 @@ write down whatever I think is interesting here :-)
 Current stuff that I've got:
 
 1. **Expression templates**: sorted of C++'s implementation of
-   the __Lazy-Evaluation__ for numerical computations, especially
+   the __Lazy-Evaluation__ for numerical computations, in particular
    linear algebra. Basically, expression templates construct an
    evaluation graph of the computation flow at compile-time. This
    avoids immediate generation of temporary computation results,
@@ -33,4 +33,3 @@ Current stuff that I've got:
    a look the amazing documentations of `Eigen` [link](https://eigen.tuxfamily.org/dox/TopicInsideEigenExample.html?_sm_au_=i5HRq6Vr7tWjtH5D),
    if you are interested in doing more cool stuff with expression
    templates!
-
